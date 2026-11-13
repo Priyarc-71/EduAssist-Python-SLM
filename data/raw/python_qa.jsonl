@@ -1,0 +1,11 @@
+{"question":"What is a variable in Python?","answer":"A variable stores a value using a name. Example: age = 20 stores 20 in age."}
+{"question":"What is a Python list?","answer":"A list stores multiple items in one variable. Example: fruits = ['apple', 'banana']."}
+{"question":"Explain a for loop in Python.","answer":"A for loop repeats code for each item in a sequence. Example: for i in range(3): print(i)."}
+{"question":"Explain a while loop in Python.","answer":"A while loop repeats code while a condition is true. Example: while count < 3: print(count)."}
+{"question":"What is a function in Python?","answer":"A function is reusable code. Example: def greet(): print('Hello') defines a function."}
+{"question":"What is a Python dictionary?","answer":"A dictionary stores key-value pairs. Example: student = {'name': 'Ravi', 'age': 20}."}
+{"question":"What is an if statement in Python?","answer":"An if statement runs code when a condition is true. Example: if age >= 18: print('Adult')."}
+{"question":"What is a Python tuple?","answer":"A tuple is an ordered collection that cannot be changed. Example: colors = ('red', 'blue')."}
+{"question":"What is a Python set?","answer":"A set stores unique values without duplicates. Example: numbers = {1, 2, 3}."}
+{"question":"What is the difference between = and == in Python?","answer":"= assigns a value, while == compares two values. Example: x = 5 assigns 5; x == 5 checks equality."}
+

@@ -1,0 +1,1 @@
+{"question": "What is a function in Python?", "answer": "A function is reusable code. Example: def greet(): print('Hello') defines a function."}

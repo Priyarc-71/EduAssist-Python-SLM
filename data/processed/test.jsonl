@@ -1,0 +1,2 @@
+{"question": "What is a variable in Python?", "answer": "A variable stores a value using a name. Example: age = 20 stores 20 in age."}
+{"question": "What is a Python list?", "answer": "A list stores multiple items in one variable. Example: fruits = ['apple', 'banana']."}

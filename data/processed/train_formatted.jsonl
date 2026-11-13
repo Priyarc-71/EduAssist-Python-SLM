@@ -1,0 +1,7 @@
+{"instruction": "What is a Python tuple?", "input": "", "output": "A tuple is an ordered collection that cannot be changed. Example: colors = ('red', 'blue')."}
+{"instruction": "Explain a while loop in Python.", "input": "", "output": "A while loop repeats code while a condition is true. Example: while count < 3: print(count)."}
+{"instruction": "Explain a for loop in Python.", "input": "", "output": "A for loop repeats code for each item in a sequence. Example: for i in range(3): print(i)."}
+{"instruction": "What is a Python set?", "input": "", "output": "A set stores unique values without duplicates. Example: numbers = {1, 2, 3}."}
+{"instruction": "What is a Python dictionary?", "input": "", "output": "A dictionary stores key-value pairs. Example: student = {'name': 'Ravi', 'age': 20}."}
+{"instruction": "What is an if statement in Python?", "input": "", "output": "An if statement runs code when a condition is true. Example: if age >= 18: print('Adult')."}
+{"instruction": "What is the difference between = and == in Python?", "input": "", "output": "= assigns a value, while == compares two values. Example: x = 5 assigns 5; x == 5 checks equality."}
